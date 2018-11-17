@@ -1,5 +1,5 @@
-# RASTI
-Room Acoustics Speech Transmission Index
+# RASTI (WIP)
+Rapid Speech Transmission Index
 
 
 
