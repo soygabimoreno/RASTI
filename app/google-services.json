@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341658923969",
+    "firebase_url": "https://rasti-ccf64.firebaseio.com",
+    "project_id": "rasti-ccf64",
+    "storage_bucket": "rasti-ccf64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341658923969:android:319331b41fc93fb6",
+        "android_client_info": {
+          "package_name": "com.appacoustic.rasti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341658923969-qdii0lnp0b6bibv1moq19edf8hl45kls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGDjvdmD0JXGyVr6J98YC2jst1FBQEq0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
